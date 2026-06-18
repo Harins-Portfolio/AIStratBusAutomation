@@ -57,25 +57,3 @@ Each project folder should include:
 | Customer Support Automation | Customer Service | Planned     |
 | Predictive Maintenance      | Operations       | Planned     |
 
----
-
-## Governance
-
-All initiatives should comply with organizational standards for:
-
-* Data quality
-* Security and access management
-* Integration architecture
-* Compliance and privacy
-* Responsible AI usage
-* Change management
-
----
-
-## Contributing
-
-1. Create a new folder under `/projects/`.
-2. Copy the standard project template.
-3. Complete the business and technical documentation.
-4. Validate the initiative with stakeholders.
-5. Track outcomes and update KPIs regularly.
