@@ -1,114 +1,84 @@
-# Sales Cycle Automation Project for a Motor Parts Distributor
+# AI Strategy & Business Automation Portfolio
 
-## Overview
+Design and implement AI-powered business automation solutions that help organizations reduce manual work, improve operational efficiency, and create scalable processes.
 
-This project focuses on redesigning and automating the commercial lifecycle of a B2B motor parts distributor using Salesforce, ERP integrations, and Artificial Intelligence.
+My focus is not only on building automations, but on identifying high-impact opportunities where AI can generate measurable business value.
 
-The objective is to reduce manual work, improve data quality, accelerate response times, and increase operational efficiency across the entire sales process.
+## What I Do
 
-## Project Goals
+* Analyze and redesign business processes
+* Identify automation opportunities across departments
+* Define AI and automation roadmaps
+* Build end-to-end workflows and system integrations
+* Develop AI assistants and decision-support tools
+* Measure outcomes through business KPIs
 
-- Automate repetitive sales and operational tasks
-- Centralize customer information in Salesforce
-- Integrate Salesforce with the ERP system
-- Improve lead qualification and opportunity management
-- Reduce validation and order processing times
-- Enhance customer experience and post-sales support
+## Areas of Expertise
 
-## Commercial Lifecycle
+* Sales automation
+* CRM and ERP integrations
+* Customer support automation
+* Lead generation and qualification
+* Document processing workflows
+* Predictive analytics
+* Process optimization
 
-The commercial process is structured into five stages:
+## Technologies & Tools
 
-1. Commercial Outreach
-2. Prospecting and Technical Validation
-3. Commercial Negotiation
-4. Sales Closing
-5. After-Sales and Customer Retention
+### Automation Platforms
 
----
+* n8n
+* Zapier
+* Make
 
-## Technology Stack
+### Programming & Data
 
-| Category | Tool |
-|----------|------|
-| CRM | Salesforce |
-| ERP | Inventory, pricing, and order management system |
-| Prospecting | LinkedIn Sales Navigator |
-| Data Enrichment | Apollo.io |
-| Communication | Email, LinkedIn, phone calls |
-| AI Capabilities | Lead scoring, meeting summaries, predictive recommendations |
+* Python
+* SQL
+* APIs
+* Webhooks
 
----
+### AI & LLMs
 
-## Automation Scope
+* OpenAI
+* LangChain
+* Retrieval-Augmented Generation (RAG)
+* AI agents
+* Prompt engineering
 
-### Stage 1: Commercial Outreach
+### Business Systems
 
-- Identify target companies using LinkedIn Sales Navigator
-- Enrich decision-maker data through Apollo.io
-- Synchronize leads with Salesforce
-- Automate multichannel outreach sequences
-- Prioritize leads using AI-driven scoring
+* Salesforce
+* HubSpot
+* ERP systems
+* Google Workspace
+* Microsoft 365
 
-### Stage 2: Prospecting and Technical Validation
+## My Approach
 
-- Capture customer requirements in Salesforce
-- Automatically validate inventory availability through the ERP
-- Confirm technical feasibility before negotiation
-- Generate alerts when products are unavailable
+Every automation project follows the same principles:
 
-### Stage 3: Commercial Negotiation
+1. Understand the business process.
+2. Identify bottlenecks and repetitive tasks.
+3. Prioritize opportunities based on impact and effort.
+4. Design scalable AI-powered solutions.
+5. Measure results and continuously optimize.
 
-- Generate proposals automatically using ERP pricing data
-- Ensure minimum target margins of 25%
-- Track negotiation history in Salesforce
-- Generate contracts and route them for e-signature
+## Example Outcomes
 
-### Stage 4: Sales Closing
+* Reduced manual data entry through CRM integrations
+* Accelerated lead qualification and sales processes
+* Improved visibility across disconnected systems
+* Automated customer communications and follow-ups
+* Increased operational efficiency through workflow automation
 
-- Create orders automatically in the ERP
-- Synchronize customer and order information between systems
-- Notify operations and logistics teams instantly
-- Generate invoices and supporting documentation
+## Featured Projects
 
-### Stage 5: After-Sales and Customer Retention
+This repository contains examples of AI and automation initiatives, including:
 
-- Automate customer follow-ups
-- Launch satisfaction surveys
-- Register and track incidents
-- Schedule preventive maintenance activities
-- Identify cross-selling and repurchase opportunities
+* Sales cycle automation
+* CRM-ERP integrations
+* AI-powered customer support workflows
+* Predictive maintenance processes
+* Intelligent reporting and analytics
 
----
-
-## Key Integrations
-
-- Salesforce ↔ Apollo.io
-- Salesforce ↔ ERP
-- Salesforce ↔ E-signature platform
-
----
-
-## Expected Benefits
-
-- Reduced manual data entry
-- Improved data accuracy and traceability
-- Faster lead response times
-- Shorter sales cycles
-- Better inventory visibility
-- Increased customer retention
-
----
-
-## Team
-
-- Nikhil Harins
-- Sergio
-- Ana
-- Julian
-- Steven
-
-## Version
-
-**Version:** v1.0  
-**Date:** June 18, 2026
