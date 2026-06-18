@@ -33,15 +33,6 @@ All projects follow a common lifecycle:
 
 ---
 
-## Portfolio Structure
-
-```text
-/
-├── README.md
-├── 
-
----
-
 ## Project Template
 
 Each project folder should include:
